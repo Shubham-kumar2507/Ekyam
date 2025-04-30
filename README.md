@@ -7,11 +7,6 @@ Features
 Community Creation: Establish and manage communities with customizable settings.​
 GitHub
 +6
-GitHub
-+6
-GitHub
-+6
-
 Event Management: Organize and participate in community events.​
 
 Resource Sharing: Share and access resources within and across communities.​
